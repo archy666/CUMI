@@ -1,1 +1,1 @@
-This code is for the paper titled in "Information Bottleneck Approach for Common and Unique Information"
+This code is for the paper titled in "Discovering_Common_Information_in_Multi_view_Data"
